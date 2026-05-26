@@ -1,0 +1,5 @@
+id_evento,timestamp,id_perfil,tipo_visita,sensor_infrarrojo,camara,resultado_acceso,alerta_ml
+1001,2026-05-24T08:15:00,R-092,Residente,Detectado,Si,Autorizado,0
+1002,2026-05-24T09:30:12,S-112,Servicio,Detectado,Si,Autorizado,0
+1003,2026-05-24T14:45:00,I-441,Invitado,Detectado,No,Rechazado,1
+1004,2026-05-25T01:10:00,Desc,Desconocido,Detectado,No,Rechazado,1
